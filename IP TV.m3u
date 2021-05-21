@@ -221,7 +221,7 @@ https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/55/8a/61/558a61cdef078c46e6d804cc3513324c.png" group-title="Documentary", Akc TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentary", Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -425,7 +425,7 @@ http://stream.amrbd.com:8082/9XM/tracks-v1a1/mono.m3u8?token=488f2a56daa02a956c1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpswxCK18MX5ZQyXl6yQgqMSVcDyQZfBUHPFKZxLOi830PG07c&usqp=CAU" group-title="Sports", Geo Super
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports
-http://10.16.100.207:8082/sports/sportst.m3u8
+http://bdiptv.net:8080/TSportsSD/tracks-v1a1/mono.m3u8?token=324d97e47da3c47bce86e37e5e5c2f283a0331d9-72deba1e0eac0c0a83cc4c7ed785f253-1621622312-1621611512
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", WILLOW HD
 http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=530ec35204f0bf75c4a7ff81defa92a49d69c8f6-4dab6a7af80c0da05e8236d5b16d5446-1620938714-1620927914
