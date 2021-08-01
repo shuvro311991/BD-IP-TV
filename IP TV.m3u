@@ -1,8 +1,9 @@
+
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/WpMA9kC.png" group-title="Bangladeshi", Anando TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s4.gifyu.com/images/imageca9d0bcf608394fd.png" group-title="Bangladeshi", Asian TV
-http://stream.amrbd.com:8082/AsianTV/tracks-v1a1/mono.m3u8?token=b983d711eb25de1c43f9203e2772c037a4541dd8-de1b8f2f0d2f14b21b8d2971d9c0dc57-1625329906-1625319106
+http://209.126.120.153/hls/asiantv.m3u8
 
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://s6.gifyu.com/images/image27cfa7002786c232.png" group-title="Bangladeshi", ATN Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
@@ -159,19 +160,24 @@ http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla", Star Jalsha
-http://103.205.133.21/hls/chsj.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla", Star Jalsha 
+https://dns.megaspeednet.com/StarJalshaMovies/tracks-v1a1/mono.m3u8?token=f5d3ccdfc8bbf312099d0f0bb7e6af81c4dcb4d5-809e24be2e26ca3ffd9e05e3f511e580-1627828652-1627817852
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla", Star Jalsha HD
 http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=acffd32d6a915882faea17d6f84801df64c5c698-a710c04a65f68deea3e07488b22dcef1-1620933252-1620922452
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla", Star Jalsha HD 2
-
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla", Jalsha Movies HD
 http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=544880034421d3382ea021ae173f240ed6d37271-61ceeb8faf9c59046b94febfcc81392c-1620933348-1620922548
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="New", Colors Bangla HD
 http://stream.amrbd.com:8082/colorsbangla/tracks-v1a1/mono.m3u8?token=8e2c253180ecc2475c15d2a29aed98e8cca53a91-4098f45eed735ccdff0a1100d4dc5be7-1620945237-1620934437
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg" group-title="New", Colors Bangla
+https://dns.megaspeednet.com/ColorsBanglaHD/tracks-v1a1/mono.m3u8?token=61ad118ea5fca5e2762ca297a56bef97337c193c-00bc118f0c80f75972cfaf8693ec8f15-1627828124-1627817324
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla", Zee Bangla
+https://dns.megaspeednet.com/ZeeBangla/tracks-v1a1/mono.m3u8?token=47c9281008ad1c47217a1a3b170524e364cc7375-ab411f3245a7f87de69b084ee302b69e-1627828760-1627817960
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla", Zee Bangla HD
 http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=494eb8d3d51c1b639d7bceff8dfa63364900c6bb-53f6d10d46324fbface220b24a249b9d-1620945343-1620934543
@@ -221,7 +227,7 @@ https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/55/8a/61/558a61cdef078c46e6d804cc3513324c.png" group-title="Documentary", Akc TV
-
+https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentary", Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
@@ -230,16 +236,23 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="Kids", Shemaroo Kids
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", Sony Yay Bangla
+https://dns.megaspeednet.com/SonyYay/tracks-v1a1/mono.m3u8?token=f4c69416108085ef90f85aad9f6f74adfe99d5d0-904c7657572cb838f9ed3860f280f7cd-1627828460-1627817660
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FVNVC73.png" group-title="Kids", MBC 3
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index_3.m3u8
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids", Cartoon Network
+#EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids", Cartoon Network Arabic
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids", Cartoon Network
+https://dns.megaspeednet.com/CartoonNetwork/tracks-v1a1/mono.m3u8?token=8201d442f18667401d94461210e04f5f20144aee-fecc1827bcd6cae660b61352d7c04350-1627828338-1627817538
 
 #EXTINF:0 tvg-id="ext" group-title="Kids", Nick Jr.
 http://stream.amrbd.com:8082/nike/tracks-v1a1/mono.m3u8?token=35d5e8cb847c0b2f86264b944f20ae946b75cdab-8f3230e83a3724d3c38b9109c4e1f37a-1620944031-1620933231
+
+#EXTINF:0 tvg-id="ext" group-title="Kids", Nick Jr (Mega).
+https://dns.megaspeednet.com/Nick/tracks-v1a1/mono.m3u8?token=37b8a66b965836cd690b62782de2bb94be873391-a25252ccf95034933df6df5daeda3434-1627828269-1627817469
 
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", Sony Yay
 
@@ -255,6 +268,10 @@ http://103.205.133.21/hls/chs.m3u8
 
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image673943a179d97db2.png" group-title="Indian", Sony TV HD
 http://stream.amrbd.com:8082/SonyTVHD/tracks-v1a1/mono.m3u8?token=afc73f352ccd944b86c5b44ca03bb5d8bb8e2617-5eb5503d146310de51c56b8b4520e213-1620948126-1620937326
+
+
+#EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian", Sony Sab
+https://dns.megaspeednet.com/SonySAB/tracks-v1a1/mono.m3u8?token=c55d4daa32e9df20de0453ade7c3206d644fc1f7-bbd8ed72d999418fefe1fda0e5d49845-1627828502-1627817702
 
 #EXTINF:-1 tvg-logo="https://d36mpatsggudpt.cloudfront.net/images/logo-new.png" group-title="Indian", Sony Sab HD
 http://stream.amrbd.com:8082/Sony_Sab/tracks-v1a1/mono.m3u8?token=4038bae0c22c25f4577599ec74f5cf3ed9a1cb91-8d4b78341f229b14b5f950117185d76e-1620948174-1620937374
@@ -369,6 +386,7 @@ http://stream.amrbd.com:8082/Bbc-Earth/tracks-v1a1/mono.m3u8?token=250943e10b516
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NNrhMTT/ATN-Music.jpg" group-title="Music", ATN Music
+https://dns.megaspeednet.com/ATNMusic/tracks-v1a1/mono.m3u8?token=f47d0abad1a74a40a29394664a45d160f7cf4f76-d4c629b0e1a91f34e7b0edb199eb94d1-1627826340-1627815540
 
 #EXTINF:-1 tvg-logo="http://www.rtvmusic.tv/assets/frontEnd/img/logo.png" group-title="Music", RTV Music
 
@@ -425,7 +443,7 @@ http://stream.amrbd.com:8082/9XM/tracks-v1a1/mono.m3u8?token=488f2a56daa02a956c1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTpswxCK18MX5ZQyXl6yQgqMSVcDyQZfBUHPFKZxLOi830PG07c&usqp=CAU" group-title="Sports", Geo Super
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", T Sports
-http://bdiptv.net:8080/TSportsSD/tracks-v1a1/mono.m3u8?token=324d97e47da3c47bce86e37e5e5c2f283a0331d9-72deba1e0eac0c0a83cc4c7ed785f253-1621622312-1621611512
+https://dns.megaspeednet.com/TSportsSD/tracks-v1a1/mono.m3u8?token=f6ac0f1f2de1c035c82ad9c78f75754456cbbc7a-c01be0c5a1599a33bc3589807a4cf6f4-1627828071-1627817271
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports", WILLOW HD
 http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=530ec35204f0bf75c4a7ff81defa92a49d69c8f6-4dab6a7af80c0da05e8236d5b16d5446-1620938714-1620927914
