@@ -224,13 +224,12 @@ https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Documentary", Love Nature
-https://bamus-eng-roku.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/55/8a/61/558a61cdef078c46e6d804cc3513324c.png" group-title="Documentary", Akc TV
-https://video.blivenyc.com/broadcast/prod/2061/22/file-3192k.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentary", Nasa TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="Kids", Shemaroo Kids
