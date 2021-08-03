@@ -87,21 +87,6 @@ http://103.205.133.21/hls/satv.m3u8
 #EXTINF:0 tvg-logo="https://s4.gifyu.com/images/image099aceca4574557b.png" group-title="Bangladeshi", Somoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 1",Server1------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="BDIX Server 3 (12:00am-6:00pm)",Server3-----------
-#EXTINF:-1 tvg-logo="" group-title="BD IPTV",BD-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Documentary",DC------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Indian Bangla",IB------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Indian",I-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="English",E----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Sports",S-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Music",M------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Kids",K-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Others",O-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="Ityadi",IT-----------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="" group-title="FM Radio",F------------------------------------------------------------------------
-
 #EXTINF:-1 tvg-logo="" group-title="Bangladeshi", Agami TV
 http://str24.l9574.com/510.stream/index.m3u8
 
@@ -119,7 +104,6 @@ http://103.108.140.164:1009/channel23/livestream/chunklist.m3u8?token=soheliptv0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/City_Channel_%28Dublin%29.png/200px-City_Channel_%28Dublin%29.png" group-title="Bangladeshi", City TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/citytv.stream/chunks.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kVT6VKt/cumilla24.png" group-title="Bangladeshi", Cumilla 24 TV
 https://tempsignature.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/cumilla24.stream/chunks.m3u8
@@ -158,13 +142,20 @@ http://nobodip.mywire.org:8081/beeiptv/nobodip/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iPJ2KkS.png" group-title="Bangladeshi", 71 Bangla TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/71bangla.stream/chunks.m3u8
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla", Star Jalsha
+
+
+
+
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla", Star Jalsha 
-https://dns.megaspeednet.com/StarJalshaMovies/tracks-v1a1/mono.m3u8?token=f5d3ccdfc8bbf312099d0f0bb7e6af81c4dcb4d5-809e24be2e26ca3ffd9e05e3f511e580-1627828652-1627817852
+https://dns.megaspeednet.com/StarJalshaMovies/tracks-v1a1/mono.m3u8?token=34333f93613d1a5044d8b8ae1947f7c679a78e4e-3352a06805f09c61f820f5e506e7832d-1628011125-1628000325
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla", Star Jalsha HD
 http://stream.amrbd.com:8082/Star-Jalsha/tracks-v1a1/mono.m3u8?token=acffd32d6a915882faea17d6f84801df64c5c698-a710c04a65f68deea3e07488b22dcef1-1620933252-1620922452
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Indian Bangla", Star Jalsha
+https://cdn.ihub.live/j-star-jalsha/tracks-v1a1/mono.m3u8?token=9670bc27301acf671455cc63b2133951b37b05c8-b76a888c75f12f5d93c518d63056ff22-1628011223-1628000423
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT5C-fDaaF5RdvNdQcfBQdhCjZ5WBeLWGEn97C1ZTNFKntoh7Hs&usqp=CAU" group-title="Indian Bangla", Jalsha Movies HD
 http://stream.amrbd.com:8082/Jalshamovies/tracks-v1a1/mono.m3u8?token=544880034421d3382ea021ae173f240ed6d37271-61ceeb8faf9c59046b94febfcc81392c-1620933348-1620922548
@@ -181,8 +172,11 @@ https://dns.megaspeednet.com/ZeeBangla/tracks-v1a1/mono.m3u8?token=47c9281008ad1
 #EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla", Zee Bangla HD
 http://stream.amrbd.com:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=494eb8d3d51c1b639d7bceff8dfa63364900c6bb-53f6d10d46324fbface220b24a249b9d-1620945343-1620934543
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla", Zee Bangla
+https://cdn.ihub.live/j-Zee-Bangla-HD/tracks-v1a1/mono.m3u8?token=dd45daf2d9cd0d0c9c09ddf0e5d9ee0f3f130c85-66e93c5e11762cf8fc2b1d15ff2e4441-1628011592-1628000792
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS_UCQ8r1-2dWimt7roVLe36t5hW6mayouhdA&usqp=CAU" group-title="Indian Bangla", Zee Bangla Cinema
-http://stream.amrbd.com:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8?token=d8775e954d5e6a60bb5b892e01e7a38c8ae3934c-faafb3f6693fea9a14ef8e0f1b85a261-1620989447-1620978647
+https://dns.megaspeednet.com/ZeeBangla/tracks-v1a1/mono.m3u8?token=c4437d0b30c8a1998cbfb393e3e54c6c1f5641af-ead1e9338b1c05ec311119353e0aeb97-1628011497-1628000697
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRHA9blYwnVrZHvp4MalItdJj7LA-RY_9QV9q1PzlI-1EVSgnwD&usqp=CAU" group-title="Indian Bangla", Ruposhi Bangla
 https://dns.megaspeednet.com/RuposhiBangla/tracks-v1a1/mono.m3u8?token=651324fdf0c0bc9e36860726562c509a6e980569-11d8d7355c23d6ecd23e025f69eb6c37-1627834211-1627823411
@@ -190,14 +184,13 @@ https://dns.megaspeednet.com/RuposhiBangla/tracks-v1a1/mono.m3u8?token=651324fdf
 #EXTINF:0 tvg-logo="https://i.imgur.com/gigcgc2.png" group-title="Indian Bangla", Sony Aath
 http://stream.amrbd.com:8082/Sonyaath/tracks-v1a1/mono.m3u8?token=9fb35315c095a822c56527c6b33407916b12bcc9-83155584c08999b2142c1f08c9f44d03-1620945513-1620934713
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/oTIxOpZ.png" group-title="Indian Bangla", Zee Bangla
-http://209.126.120.153:80/hls/zeebanglahd.m3u8
-
 #EXTINF:-1 tvg-logo="https://d2ehtpitw6c7w.cloudfront.net/sun_bangla_logo.png" group-title="Indian Bangla", Sun Bangla
 https://d3plxx22mik57v.cloudfront.net/SUN_BANGLA.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/622036875453181952/Vmla7jNX_400x400.jpg" group-title="Indian Bangla", Calcutta News
 https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index_14.m3u8?token=soheliptv01826655778
+
+
 
 #EXTINF:-1 tvg-logo="https://latestlearnerships.com/wp-content/uploads/2016/11/discovery-careers-jobs-internships-vacancies-learnership-programme-310x165.jpg" group-title="Documentary", Discovery Bangla
 
@@ -222,15 +215,14 @@ http://stream.amrbd.com:8082/Nat-Geo/tracks-v1a1/mono.m3u8?token=a16a18bcee2a780
 #EXTINF:-1 tvg-logo="https://image3.mouthshut.com/images/imagesp/925753531s.png" group-title="Documentary", Travel XP
 https://d2a5us7y2ujl6n.cloudfront.net/TRAVEL_XP.m3u8
 
-
-
-
-
 #EXTINF:-1 tvg-logo="https://mms.businesswire.com/media/20160221005243/en/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Documentary", Love Nature
 https://bamus-eng-roku.amagi.tv/playlist720lp.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png" group-title="Documentary", Nasa TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="Kids", Shemaroo Kids
@@ -246,7 +238,7 @@ https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f8
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
 #EXTINF:0 tvg-logo="https://i.imgur.com/M9Z5cfD.png" group-title="Kids", Cartoon Network
-https://dns.megaspeednet.com/CartoonNetwork/tracks-v1a1/mono.m3u8?token=8201d442f18667401d94461210e04f5f20144aee-fecc1827bcd6cae660b61352d7c04350-1627828338-1627817538
+https://dns.megaspeednet.com/CartoonNetwork/tracks-v1a1/mono.m3u8?token=d2c21ed73793f9b458d430ec403024383b33f01f-87ea2600557b35539cef52b3d2e5de6d-1628011701-1628000901
 
 #EXTINF:0 tvg-id="ext" group-title="Kids", Nick Jr.
 http://stream.amrbd.com:8082/nike/tracks-v1a1/mono.m3u8?token=35d5e8cb847c0b2f86264b944f20ae946b75cdab-8f3230e83a3724d3c38b9109c4e1f37a-1620944031-1620933231
